@@ -1,0 +1,7 @@
+pygame
+websocket-client
+numpy
+ccxt
+pandas
+ta
+dydx-v3-python

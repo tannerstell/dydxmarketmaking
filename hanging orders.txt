@@ -1,0 +1,2 @@
+hybrid hanging/single orders (if hanging orders are higher than average, then average down to one order. 
+If lower, leave hanging orders)
