@@ -5,7 +5,7 @@ import json
 import pprint
 from typing import Optional
 
-path = "C:\\Users\\tanne\\PycharmProjects\\dydx - 3.4"
+path = "C:\\enter\\path\\here\\"
 
 def execute(task):
 
